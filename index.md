@@ -5,12 +5,20 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a musicology PhD student at the University of Pavia and a popular music violinist.
 
-## Current Interests and Projects:
+My current research project is called “Milan 1958-62: Musical Topography of a Forgotten City” and revolves around the mapping of live venues in the city at the time of the Italian economic boom.
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+The main focus of the project is to reconstruct the complexities of the relationships between music, society and space across different music genres, in a moment in which the city was not only the heart of the Italian “economic miracle” but also the engine of national musical change.
+
+In "map" can check a prototype of the mapping section of the project.
+
+
+
+## Current Interests and Music Projects:
+
+- Music, sound and space
+- Italian popular music history
+- Urban musicology
+- Deep mapping
+- Clio and Maurice
