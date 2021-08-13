@@ -1,9 +1,6 @@
 ---
 layout: page
-excerpt: Music in Milan: 1958-1959
-menutitle: map
+title: Music in Milan: 1958-1959
+menutitle: Map
 menuorder: 3
 ---
-
-
-##Music in Milan map prototype
