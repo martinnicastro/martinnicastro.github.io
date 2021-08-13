@@ -1,6 +1,6 @@
 ---
 layout: resume
-menuorder: 2
+menuorder: 3
 menutitle: Resume
 ---
 ## Currently
