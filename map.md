@@ -8,6 +8,10 @@ menuorder: 3
 
 ## Music in Milan map
 
+[Interactive map](https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4570/9.2404)
+
+<iframe src="https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4570/9.2404" width="100%" height="600"></iframe>
+
 
 ## Abstract
 
