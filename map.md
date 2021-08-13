@@ -9,7 +9,7 @@ menuorder: 3
 
 Click here to open the full map: [Interactive map](https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4656/9.1859)
 
-<iframe src="https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4656/9.1859" width="100%" height="600"></iframe>
+<iframe src="https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4656/9.1859" width="80%" height="500"></iframe>
 
 
 
