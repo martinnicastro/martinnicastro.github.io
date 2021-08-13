@@ -5,6 +5,8 @@ menutitle: Map
 menuorder: 3
 ---
 
+## Music in Milan 1958-1959 (prototype)
+
 [Interactive map](https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4604/9.2380)
 
 <iframe src="https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4604/9.2380" width="100%" height="600"></iframe>
