@@ -48,7 +48,7 @@
         }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[45.42341055061032,9.122750178812419],[45.51217241784573,9.254432818710715]]);
+        }).fitBounds([[45.37777556954629,9.065860926900516],[45.55530308419359,9.329226206697374]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -104,10 +104,10 @@
 
         function style_GenresandSpace_1_0(feature) {
             switch(String(feature.properties['type'])) {
-                case 'Concert hall':
+                default:
                     return {
                 pane: 'pane_GenresandSpace_1',
-                radius: 6.0,
+                radius: 5.199999999999999,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
                 dashArray: '',
@@ -116,14 +116,46 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(32,204,179,1.0)',
+                fillColor: 'rgba(127,220,200,1.0)',
+                interactive: true,
+            }
+                    break;
+                case 'Concert hall':
+                    return {
+                pane: 'pane_GenresandSpace_1',
+                radius: 5.199999999999999,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(43,231,255,1.0)',
+                interactive: true,
+            }
+                    break;
+                case 'Dancing':
+                    return {
+                pane: 'pane_GenresandSpace_1',
+                radius: 5.199999999999999,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(49,210,165,1.0)',
                 interactive: true,
             }
                     break;
                 case 'Night club':
                     return {
                 pane: 'pane_GenresandSpace_1',
-                radius: 6.0,
+                radius: 5.199999999999999,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
                 dashArray: '',
@@ -132,14 +164,30 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(223,49,180,1.0)',
+                fillColor: 'rgba(243,70,67,1.0)',
+                interactive: true,
+            }
+                    break;
+                case 'Other':
+                    return {
+                pane: 'pane_GenresandSpace_1',
+                radius: 5.199999999999999,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(255,143,224,1.0)',
                 interactive: true,
             }
                     break;
                 case 'Theatre':
                     return {
                 pane: 'pane_GenresandSpace_1',
-                radius: 6.0,
+                radius: 5.199999999999999,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
                 dashArray: '',
@@ -148,14 +196,14 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(76,69,215,1.0)',
+                fillColor: 'rgba(48,77,222,1.0)',
                 interactive: true,
             }
                     break;
                 case 'Theatre/Concert hall':
                     return {
                 pane: 'pane_GenresandSpace_1',
-                radius: 6.0,
+                radius: 5.199999999999999,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
                 dashArray: '',
@@ -164,14 +212,14 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(237,158,94,1.0)',
+                fillColor: 'rgba(255,248,45,1.0)',
                 interactive: true,
             }
                     break;
-                default:
+                case 'Whisky a go-go':
                     return {
                 pane: 'pane_GenresandSpace_1',
-                radius: 6.0,
+                radius: 5.199999999999999,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
                 dashArray: '',
@@ -180,7 +228,7 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(141,233,91,1.0)',
+                fillColor: 'rgba(35,175,98,1.0)',
                 interactive: true,
             }
                     break;
@@ -259,7 +307,7 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(214,0,0,1.0)',
+                fillColor: 'rgba(255,255,255,1.0)',
                 interactive: true,
             }
                     break;
@@ -318,18 +366,8 @@
         bounds_group.addLayer(layer_MusicToday_2);
         map.addLayer(layer_MusicToday_2);
         var baseMaps = {};
-        L.control.layers(baseMaps,{'Music Today<br /><table><tr><td style="text-align: center;"><img src="legend/MusicToday_2_Active0.png" /></td><td>Active</td></tr><tr><td style="text-align: center;"><img src="legend/MusicToday_2_Closed1.png" /></td><td>Closed</td></tr><tr><td style="text-align: center;"><img src="legend/MusicToday_2_2.png" /></td><td></td></tr></table>': layer_MusicToday_2,'Genres and Space <br /><table><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Concerthall0.png" /></td><td>Concert hall</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Nightclub1.png" /></td><td>Night club</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Theatre2.png" /></td><td>Theatre</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_TheatreConcerthall3.png" /></td><td>Theatre/Concert hall</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_4.png" /></td><td></td></tr></table>': layer_GenresandSpace_1,"OpenStreetMap": layer_OpenStreetMap_0,},{collapsed:false}).addTo(map);
+        L.control.layers(baseMaps,{'Music Today<br /><table><tr><td style="text-align: center;"><img src="legend/MusicToday_2_Active0.png" /></td><td>Active</td></tr><tr><td style="text-align: center;"><img src="legend/MusicToday_2_Closed1.png" /></td><td>Closed</td></tr><tr><td style="text-align: center;"><img src="legend/MusicToday_2_2.png" /></td><td></td></tr></table>': layer_MusicToday_2,'Genres and Space <br /><table><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_0.png" /></td><td></td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Concerthall1.png" /></td><td>Concert hall</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Dancing2.png" /></td><td>Dancing</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Nightclub3.png" /></td><td>Night club</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Other4.png" /></td><td>Other</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Theatre5.png" /></td><td>Theatre</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_TheatreConcerthall6.png" /></td><td>Theatre/Concert hall</td></tr><tr><td style="text-align: center;"><img src="legend/GenresandSpace_1_Whiskyagogo7.png" /></td><td>Whisky a go-go</td></tr></table>': layer_GenresandSpace_1,"OpenStreetMap": layer_OpenStreetMap_0,},{collapsed:false}).addTo(map);
         setBounds();
-        resetLabels([layer_GenresandSpace_1]);
-        map.on("zoomend", function(){
-            resetLabels([layer_GenresandSpace_1]);
-        });
-        map.on("layeradd", function(){
-            resetLabels([layer_GenresandSpace_1]);
-        });
-        map.on("layerremove", function(){
-            resetLabels([layer_GenresandSpace_1]);
-        });
         </script>
     </body>
 </html>
