@@ -7,9 +7,9 @@ menuorder: 3
 
 ### Music in Milan 1958-1959 (prototype)
 
-Click here to open the full map: [Interactive map](https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4614/9.1898)
+Click here to open the full map: [Interactive map](https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4645/9.1943)
 
-<iframe src="https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4614/9.1898" width="130%" height="600"></iframe>
+<iframe src="https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4645/9.1943" width="130%" height="600"></iframe>
 
 
 
