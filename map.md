@@ -9,19 +9,8 @@ menuorder: 3
 
 Click here to open the full map: [Interactive map](https://martinnicastro.github.io/export_2.html)
 
-Click here to open "performers_composers" network graph: [graph](https://martinnicastro.github.io/export_2.html)
+Click here to open "performers_composers" network graph: [graph_1](https://martinnicastro.github.io/compositori_musicisti3.svg)
 
-Click here to open "venues_performers" network graph: [graph](https://martinnicastro.github.io/export_2.html)
+Click here to open "venues_performers" network graph: [graph_2](martinnicastro.github.io/spazi_musicisti_nomi.svg)
 
 <iframe src="https://martinnicastro.github.io/export_2.html" width="130%" height="600"></iframe>
-
-
-
-
-
-
-https://github.com/martinnicastro/martinnicastro.github.io/blob/main/export_2.html
-
-https://github.com/martinnicastro/martinnicastro.github.io/blob/main/Music%20in%20Milan/index.html
-
-https://martinnicastro.github.io/Music%20in%20Milan/index.html#13/45.4645/9.1943
