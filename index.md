@@ -4,13 +4,11 @@ exceptr: about me...
 menutitle: Home
 menuorder: 1
 ---
-### Milan 1958-62: Musical Topography of a Forgotten City
 
-### About me
 
 I am a musicology PhD student at the University of Pavia and a popular music violinist.
 
-My current research project is called “Milan 1958-62: Musical Topography of a Forgotten City” and <b>revolves around the mapping of live venues in the city at the time of the Italian economic boom</b>.
+My current research project is called <b>“Milan 1958-62: Musical Topography of a Forgotten City”</b> and revolves around the <b>mapping of live venues in the city at the time of the Italian economic boom</b>.
 
 The project is supervised by <b>Prof. Alessandro Bratus</b> (University of Pavia) and co-tutored by <b>Prof. Giovanni Pietro Vitali</b> (University of Versailles Saint-Quentin-en-Yvelines).
 
