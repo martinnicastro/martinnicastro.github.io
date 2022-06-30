@@ -5,11 +5,9 @@ menutitle: Home
 menuorder: 1
 ---
 
-### Milan 1958-1962: Musical Topography of a Forgotten City
+### The project
 
-I am a musicology PhD student at the University of Pavia and a popular music violinist.
-
-My current research project is called “Milan 1958-62: Musical Topography of a Forgotten City” and revolves around the <b>mapping of live venues in the city at the time of the Italian economic boom</b>.
+“Milan 1958-62: Musical Topography of a Forgotten City” is a PhD research project that revolves around the <b>mapping of live venues in the city at the time of the Italian economic boom</b>.
 
 ### Music in Milan
 
