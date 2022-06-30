@@ -8,43 +8,43 @@ menuorder: 4
 ### Milan 1958-1962: Musical Topography of a Forgotten City (work in progress)
 
 
-##Gaetano Liguori
-
-<iframe width="280" height="200" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+#Gaetano Liguori
 
 
+<iframe width="200" height="150" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-##Paolo Tomelleri
+
+#Paolo Tomelleri
 
 
 <iframe width="280" height="200" src="https://www.youtube.com/embed/bBXRV2kQsI4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
-##Natale Massara
+#Natale Massara
 
 
-<iframe src="https://www.youtube.com/watch?v=VsBMWWNWyow" width="60%" height="300"></iframe>
+<iframe width="280" height="200" src="https://www.youtube.com/embed/VsBMWWNWyow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
-##Giacomo Manzoni
+#Giacomo Manzoni
 
 
-<iframe src="https://www.youtube.com/embed/08PDtNigUvI" width="60%" height="300"></iframe>
+<iframe width="280" height="200" src="https://www.youtube.com/embed/08PDtNigUvI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
-##Enrico Intra
+#Enrico Intra
 
 
-<iframe src="https://www.youtube.com/embed/BOB1lLGVd0A" width="60%" height="300"></iframe>
+<iframe width="280" height="200" src="https://www.youtube.com/embed/BOB1lLGVd0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
-##Gaetano Liguori
+#Gaetano Liguori
 
 
-<iframe src="https://www.youtube.com/embed/-lzNykhh_PU" width="60%" height="300"></iframe>
+<iframe width="280" height="200" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
-##Bruno Canino
+#Bruno Canino
 
 
-<iframe src="https://www.youtube.com/embed/NsAHcXIyqyk" width="60%" height="300"></iframe>
+<iframe width="280" height="200" src="https://www.youtube.com/embed/NsAHcXIyqyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
