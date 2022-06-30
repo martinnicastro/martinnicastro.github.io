@@ -11,7 +11,7 @@ menuorder: 4
 #Gaetano Liguori
 
 
-<iframe width="200" height="150" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="200" height="150" src="https://www.youtube.com/watch?v=-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 #Paolo Tomelleri
@@ -36,12 +36,6 @@ menuorder: 4
 
 
 <iframe width="280" height="200" src="https://www.youtube.com/embed/BOB1lLGVd0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-
-#Gaetano Liguori
-
-
-<iframe width="280" height="200" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 #Bruno Canino
