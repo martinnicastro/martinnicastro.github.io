@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Milan 1958-1962: Musical Topograhy of a Forgotten City
-excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
