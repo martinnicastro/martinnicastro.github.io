@@ -5,7 +5,7 @@ menutitle: Map
 menuorder: 3
 ---
 
-### Milan 1958-1962: Musical Topography of a City (prototype)
+### Milan 1958-1962: Musical Topography of a Forgotten City (work in progress)
 
 Click here to open the full map: [Interactive map](https://martinnicastro.github.io/export_2.html)
 
