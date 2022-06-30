@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music in Milan
+title: Map
 menutitle: Map
 menuorder: 3
 ---
