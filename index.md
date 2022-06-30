@@ -1,9 +1,10 @@
 ---
 layout: page
-exceptr: Milan 1958-1962: Musical Topograhy of a Forgotten City
+exceptr: about me...
 menutitle: Home
-menuorder: 5
+menuorder: 1
 ---
+### Milan 1958-62: Musical Topography of a Forgotten City
 
 ### About me
 
