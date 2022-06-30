@@ -2,7 +2,7 @@
 layout: page
 title: Interviews
 menutitle: Interviews
-menuorder: 3
+menuorder: 4
 ---
 
 ### Milan 1958-1962: Musical Topography of a Forgotten City (work in progress)
@@ -10,14 +10,14 @@ menuorder: 3
 
 ##Gaetano Liguori
 
+<iframe width="280" height="200" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-<iframe src="https://www.youtube.com/embed/-lzNykhh_PU" width="60%" height="300"></iframe>
 
 
 ##Paolo Tomelleri
 
 
-<iframe src="https://www.youtube.com/embed/bBXRV2kQsI4" width="60%" height="300"></iframe>
+<iframe width="280" height="200" src="https://www.youtube.com/embed/bBXRV2kQsI4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 ##Natale Massara

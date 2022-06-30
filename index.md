@@ -21,4 +21,3 @@ In "map" can check a prototype of the mapping section of the project.
 - Italian popular music history
 - Urban musicology
 - Deep mapping
-- Clio and Maurice
