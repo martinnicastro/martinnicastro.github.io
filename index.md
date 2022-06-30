@@ -9,7 +9,7 @@ menuorder: 1
 
 I am a musicology PhD student at the University of Pavia and a popular music violinist.
 
-My current research project is called “Milan 1958-62: Musical Topography of a Forgotten City” and revolves around the mapping of live venues in the city at the time of the Italian economic boom.
+My current research project is called “Milan 1958-62: Musical Topography of a Forgotten City” and revolves around the <b>mapping of live venues in the city at the time of the Italian economic boom</b>.
 
 ### Music in Milan
 
