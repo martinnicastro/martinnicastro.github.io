@@ -90,3 +90,17 @@ Bruno Canino (1935) is a pianist, harpsichordist and composer of Neapolitan orig
 
 
 <iframe width="280" height="200" src="https://www.youtube.com/embed/NsAHcXIyqyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+
+
+
+
+### Lino Patruno
+
+Lino Patruno (1935) is a banjoist and guitarist involved both in the field of traditional jazz, with formations such as the Milan College Jazz Society or the Riverside Jazz Band, and in the field of cabaret with “I Gufi”, of which he is co-founder. During the interview he recalls how the Santa Tecla was for him not only a sort of home, but also a place of learning and evokes encounters and trajectories through various urban performance spaces, essential for the development of his career.
+
+
+
+
+
+<iframe width="280" height="200" src="https://www.youtube.com/embed/uPrpF_YJIrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
