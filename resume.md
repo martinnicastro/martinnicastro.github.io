@@ -102,10 +102,16 @@ Let the Water Flow, Pashmak
 
 ## Concerts
 
-`2020-2021`
-Clio and Maurice, Italian Tour
+`2022`
+Clio and Maurice
 
--Milan (Mare Culturale Urbano, Parti Festival, Arci Bellezza, Corte dei Miracoli)
+-<b>Chieti</b> (Primo), <b>Ancona</b> (Villa Buia), <b>Palmi</b> (Officine Balena), <b>Bari</b> (Hotel Imago), <b>Taranto</b> (Caffè Letterario), <b>Altamura</b> (Asfodelo), <b>Cremona</b> (Arci Festa), <b>Berlin</b> (Madame Claude)
+
+
+`2020-2021`
+Clio and Maurice
+
+-<b>Milan</b> (Mare Culturale Urbano, Parti Festival, Arci Bellezza, Corte dei Miracoli), <b>Forlì</b> (Diagonal Club), <b>Cesenatico</b> (Cafè Marivaux), <b>Cesena</b> (Villa Nellcote), <b>Ragusa</b> (Suq), <b>Lecce</b> (Crocevia), <b>Manduria</b> (Angelè), <b>Turi</b> (Jedes Bier), <b>Recanati</b> (Arci La Serra), <b>Tolentino</b> (Green Room), <b>Assisi</b> (Osteria San Vittorino), <b>Perugia</b> (Rework Club), <b>Segrate</b> (Biblioteca Comunale)
 
 <!-- ### Footer
 
