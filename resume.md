@@ -73,7 +73,39 @@ __Resident Researcher__, Biennale di Venezia
 `2016-current`
 __Violin Teacher__, Ricordi Music School (Milan)
 
+## Discography
 
+`2022`
+Garçon Raté EP, Ali + The Stolen Boy
+
+-Arranger and violinist
+
+`2020`
+Fragile EP, Clio & Maurice
+
+-Composer and violinist
+
+`2019`
+Atlantic Thoughts, Pashmak
+
+-Composer, violinist and synth player
+
+`2016`
+Indigo EP, Pashmak
+
+-Composer, violinist and synth player
+
+`2015`
+Let the Water Flow, Pashmak
+
+-Composer, violinist and synth player
+
+## Concerts
+
+`2020-2021`
+Clio and Maurice, Italian Tour
+
+-Milan (Mare Culturale Urbano, Parti Festival, Arci Bellezza, Corte dei Miracoli)
 
 <!-- ### Footer
 
