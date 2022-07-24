@@ -4,11 +4,8 @@ menuorder: 8
 menutitle: Curriculum
 ---
 
-## Currently
 
-Current Position Description
-
-## Education
+# Education
 
 `2020 - current`
 __University of Pavia__
@@ -32,7 +29,7 @@ __Conservatory of Milan__
 Courses in Electroacustic Composition (40 CFU)
 
 
-## Awards
+# Awards
 
 
 `2022`
@@ -48,23 +45,21 @@ Premio Vittorio Fellegara, NoMus (Milan)
 DSU scholarship, University of Milan
 
 
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+# Publications
 
 
 `2020`
 Nono-Biennale di Venezia: from '68's Demonstrations to Prometeo. La Biennale, Venezia.
 
 
-## Journals
+# Journals
 
 
 `2020`
 Vittorio Fellegara: a Retrospective Look, Musica/Realtà 122
 
 
-## Occupation
+# Occupation
 
 
 `2020-current`
@@ -88,7 +83,7 @@ __Resident Researcher__, Biennale di Venezia
 __Violin Teacher__, Ricordi Music School (Milan)
 
 
-## Discography
+# Discography
 
 
 `2022`
@@ -117,7 +112,7 @@ Let the Water Flow, Pashmak
 -Composer, violinist and synth player
 
 
-## Concerts
+# Concerts
 
 
 `2022`
