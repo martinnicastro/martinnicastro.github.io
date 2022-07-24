@@ -1,12 +1,8 @@
 ---
 layout: resume
-menuorder: 8
-menutitle: Curriculum
+menuorder: 7
+menutitle: CV
 ---
-
-## Currently
-
-Current Position Description
 
 ## Education
 
@@ -49,8 +45,6 @@ DSU scholarship, University of Milan
 
 
 ## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 
 `2020`
