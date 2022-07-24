@@ -1,7 +1,7 @@
 ---
 layout: resume
-menuorder: 6
-menutitle: Resume
+menuorder: 7
+menutitle: CV
 ---
 ## Currently
 

@@ -42,7 +42,6 @@ Composition, strings arrangements, violin.
 #### Selected tracks
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04wd9rKHMKsyC03vKPpimS?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-ewg.showcode
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4RN3bOxPu8WMfDrZxa5WpQ?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
