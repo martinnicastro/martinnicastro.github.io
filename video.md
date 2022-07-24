@@ -29,6 +29,7 @@ Director: Laura Samani (2022 David di Donatello winner for best new director)
 ##### Lost (2019)
 
 Screenwriter & art director: Sofia Atzori
+
 Director & editor: Davide Morabito
 
 "Sofia Atzori and Davide Morabito graft an intimate and personal story, which through the decor, the flowers and the landscape reflects the inner conflict and the singer's personal research". <b>Videoclip Italia</b>
