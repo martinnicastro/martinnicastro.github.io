@@ -4,7 +4,7 @@ menuorder: 8
 menutitle: Curriculum
 ---
 
-## <b>Education</b>
+Education
 
 `2020 - current`
 __University of Pavia__
@@ -27,12 +27,7 @@ Diploma in Classical Violin
 __Conservatory of Milan__
 Courses in Electroacustic Composition (40 CFU)
 
-
-
-
-
-
-## <b>Awards</b>
+Awards
 
 
 `2022`
@@ -90,29 +85,29 @@ Discography
 
 
 `2022`
-Garçon Raté EP, Ali + The Stolen Boy
+__Garçon Raté EP__, Ali + The Stolen Boy
 
--Arranger and violinist
+- Arranger and violinist
 
 `2020`
-Fragile EP, Clio & Maurice
+__Fragile EP__, Clio & Maurice
 
--Composer and violinist
+- Composer and violinist
 
 `2019`
-Atlantic Thoughts, Pashmak
+__Atlantic Thoughts__, Pashmak
 
--Composer, violinist and synth player
+- Composer, violinist and synth player
 
 `2016`
-Indigo EP, Pashmak
+__Indigo EP__, Pashmak
 
--Composer, violinist and synth player
+- Composer, violinist and synth player
 
 `2015`
-Let the Water Flow, Pashmak
+__Let the Water Flow__, Pashmak
 
--Composer, violinist and synth player
+- Composer, violinist and synth player
 
 Concerts
 
