@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-menutitle: Works
+title: Selected Works
+menutitle: Music
 menuorder: 2
 ---
 
@@ -39,9 +39,11 @@ Composition, strings arrangements, violin.
 
 "An extraordinary duo that we are really happy to be able to air for a whole month". <b>MTV Music</b>
 
-#### Selected track
+#### Selected tracks
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/N_Sn1xplQkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04wd9rKHMKsyC03vKPpimS?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+ewg.showcode
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4RN3bOxPu8WMfDrZxa5WpQ?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 ### Ali + The Stolen Boy (2022)
