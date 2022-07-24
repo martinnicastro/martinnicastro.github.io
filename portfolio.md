@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 menutitle: Works
-menuorder: 5
+menuorder: 2
 ---
 
 ### Pashmak, "Atlantic Thoughts" (2019)
