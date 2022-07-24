@@ -113,15 +113,31 @@ Concerts
 
 
 `2022`
-Clio and Maurice
+Clio and Maurice, Italy and Germany
 
--<b>Chieti</b> (Primo), <b>Ancona</b> (Villa Buia), <b>Palmi</b> (Officine Balena), <b>Bari</b> (Hotel Imago), <b>Taranto</b> (Caffè Letterario), <b>Altamura</b> (Asfodelo), <b>Cremona</b> (Arci Festa), <b>Berlin</b> (Madame Claude)
+- <b>Chieti</b> (Primo), <b>Ancona</b> (Villa Buia), <b>Palmi</b> (Officine Balena), <b>Bari</b> (Hotel Imago), <b>Taranto</b> (Caffè Letterario), <b>Altamura</b> (Asfodelo), <b>Cremona</b> (Arci Festa), <b>Berlin</b> (Madame Claude)
 
 
 `2020-2021`
-Clio and Maurice
+Clio and Maurice, Italy
 
--<b>Milan</b> (Mare Culturale Urbano, Parti Festival, Arci Bellezza, Corte dei Miracoli), <b>Forlì</b> (Diagonal Club), <b>Cesenatico</b> (Cafè Marivaux), <b>Cesena</b> (Villa Nellcote), <b>Ragusa</b> (Suq), <b>Lecce</b> (Crocevia), <b>Manduria</b> (Angelè), <b>Turi</b> (Jedes Bier), <b>Recanati</b> (Arci La Serra), <b>Tolentino</b> (Green Room), <b>Assisi</b> (Osteria San Vittorino), <b>Perugia</b> (Rework Club), <b>Segrate</b> (Biblioteca Comunale)
+- <b>Milan</b> (Mare Culturale Urbano, Parti Festival, Arci Bellezza, Corte dei Miracoli), <b>Forlì</b> (Diagonal Club), <b>Cesenatico</b> (Cafè Marivaux), <b>Cesena</b> (Villa Nellcote), <b>Ragusa</b> (Suq), <b>Lecce</b> (Crocevia), <b>Manduria</b> (Angelè), <b>Turi</b> (Jedes Bier), <b>Recanati</b> (Arci La Serra), <b>Tolentino</b> (Green Room), <b>Assisi</b> (Osteria San Vittorino), <b>Perugia</b> (Rework Club), <b>Segrate</b> (Biblioteca Comunale)
+
+`2018-2019`
+Pashmak, Bosnia and Erzegovina, Kosovo, North Macedonia, Serbia, Slovenia
+
+
+- <b>Sarajevo<b>(Club Monument, Kino Bosna), <b>Prishtina<b> (Soma), <b>Prizren<b> (Oqean), <b>Bitola<b> (Artikultura), <b>Belgrade<b> (Viktorija boat, Montain Music Festival), <b>Ljubljana<b> (Tresor, Ment festival), <b>Banja Luka<b> (Ziza)
+
+`2019`
+Pashmak, Italy
+
+- <b>Bologna</b> (Mikasa, Baum Festival, TPO), <b>Baronissi</b> (Dissonanze), <b>Castiglione del Lago</b> (Darsena), <b>Firenze</b> (Volume), <b>Carpi</b>(Mattatoio), <b>Osio Sopra</b> (Joe Koala), <b>Loreto</b> (Reasonanz), <b>Roma</b> (Le Mura), <b>Urbino</b>
+(Fuoritema), <b>Torino</b> (Lambic), <b>Milano</b> (Ohibò, Auditorium Demetrio Stratos on national broadcast, Carroponte, Serraglio), <b>Albizzate</b> (The Family), <b>Montagnana<Yb> (Banhof).
+
+
+
+
 
 <!-- ### Footer
 
