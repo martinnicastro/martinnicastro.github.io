@@ -2,7 +2,7 @@
 layout: page
 title: Map
 menutitle: Map
-menuorder: 3
+menuorder: 4
 ---
 
 ### Milan 1958-1962: Musical Topography of a Forgotten City (work in progress)

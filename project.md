@@ -1,7 +1,7 @@
 layout: page
 title: Milan 1958-1962: Music Topography of a Forgotten City
 menutitle: Music Topography
-menuorder: 5
+menuorder: 3
 ---
 
 My current research project is called <b>“Milan 1958-62: Musical Topography of a Forgotten City”</b> and <b>revolves around the mapping of live venues in the city at the time of the Italian economic boom</b>.
@@ -27,7 +27,7 @@ From here I proceeded to the <b>creation of an interactive digital map</b>, prog
 In the section "[interviews](https://martinnicastro.github.io/interviews/)" is possible to watch a preview version of the monographic audio-video recordings, which mostly contain different clips
 from the geolocated ones.
 
-## Current Interests and Music Projects:
+## Topics:
 
 - Music, sound and space
 - Italian popular music history
