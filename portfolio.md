@@ -32,6 +32,10 @@ Composition, strings and synths arrangements, violin.
 Composition, strings arrangements, violin.
 
 "The emotional tensions of an album entirely on the shoulders of a powerful voice and a violin with effects used as they should be" <b>Rumore</b>
+"A very interesting fusion of genres that we really liked"<b>La Repubblica</b>"
+"The Italian way to Avantpop [...] in the footsteps of ambitious overseas productions with layered and enveloping arrangements"<b>Rockit</b> (best 50 records of 2020)
+"An extraordinary duo that we are really happy to be able to air for a whole month"<b>MTV Music</b>
+"An impossible encounter between a voice and a violin, between Nina Simone and Arca"<b>Rolling Stone</b>
 
 
 
@@ -39,7 +43,7 @@ Composition, strings arrangements, violin.
 
 ### Ali + The Stolen Boy (2022)
 
-String and synths arrangements, violin.
+Strings and synths arrangements, violin.
 
 
 
