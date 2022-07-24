@@ -4,7 +4,7 @@ menuorder: 8
 menutitle: Curriculum
 ---
 
-<b>Education</b>
+## <b>Education</b>
 
 `2020 - current`
 __University of Pavia__
@@ -32,7 +32,7 @@ Courses in Electroacustic Composition (40 CFU)
 
 
 
-<b>Awards</b>
+## <b>Awards</b>
 
 
 `2022`
@@ -62,7 +62,7 @@ Journals
 Vittorio Fellegara: a Retrospective Look, Musica/Realtà 122
 
 
-#### Occupation
+Occupation
 
 
 `2020-current`
@@ -86,7 +86,7 @@ __Resident Researcher__, Biennale di Venezia
 __Violin Teacher__, Ricordi Music School (Milan)
 
 
-__Discography__
+Discography
 
 
 `2022`
@@ -114,12 +114,7 @@ Let the Water Flow, Pashmak
 
 -Composer, violinist and synth player
 
-
-
-
-
-
-## Concerts
+Concerts
 
 
 `2022`
