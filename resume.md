@@ -3,65 +3,75 @@ layout: resume
 menuorder: 7
 menutitle: CV
 ---
-## Currently
-
-PhD student at the University of Pavia
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2020 - current`
+__University of Pavia__
+Ph.D in Musicology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded
+`2015 - 2018`
+__University of Milan__
+Master Degree in Music, Theatre and Film (110/110 with honors)
+
+`2013 - 2015`
+__University of Milan__
+Bachelor's Degree in Modern Humanities (110/110 with honors)
+
+
+`2007 - 2017`
+__Conservatory of Milan__
+Diploma in Classical Violin
+
+`2015 - 2016`
+__Conservatory of Milan__
+Courses in Electroacustic Composition (40 CFU)
 
 ## Awards
 
-`2012`
-Name of Award, Organization
+`2022`
+Small Grant AIUCD 
+
+`2021`
+DARIAH-EU fellowship, ESU (Leipzig)
+
+`2019`
+Premio Vittorio Fellegara, NoMus (Milan)
+
+`2013-15`
+DSU scholarship, University of Milan
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
+Nono-Biennale di Venezia: from '68's Demonstrations to Prometeo. La Biennale, Venezia.
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+`2020`
+Vittorio Fellegara: a Retrospective Look, Musica/Realtà 122
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer
+`2020-current`
+__Adjunct Professor__, Department of Cultural and Environmental Heritage, University of Milan
 
-- Task
-- Task
+- Teacher of the course: Digital editing and representation of musical texts and sound events.
 
-`1994-1996`
-__Current Job Title__, Current Employer
 
-- Task
-- Task
+`2022`
+__Trainer__, University of Poitiers
+
+- Teacher of the workshop "Data Visualization"
+during EnExDi Spring University
+
+`2019`
+__Resident Researcher__, Biennale di Venezia
+
+- Biennale College ASAC
+
+`2016-current`
+__Violin Teacher__, Ricordi Music School (Milan)
 
 
 
