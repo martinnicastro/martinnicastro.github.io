@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Works
+title: Video
 menutitle: Video
 menuorder: 6
 ---
