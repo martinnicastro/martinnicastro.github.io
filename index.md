@@ -26,5 +26,5 @@ He is also a PhD candidate in Musicology at the <b>University of Pavia</b> (Ital
 
 ##  Music Collaborations:
 
--Clio M
--Ali + The Stolen Boy
+- Clio M
+- Ali + The Stolen Boy
