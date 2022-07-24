@@ -27,7 +27,9 @@ Diploma in Classical Violin
 __Conservatory of Milan__
 Courses in Electroacustic Composition (40 CFU)
 
+
 ## Awards
+
 
 `2022`
 Small Grant AIUCD 
@@ -41,17 +43,23 @@ Premio Vittorio Fellegara, NoMus (Milan)
 `2013-15`
 DSU scholarship, University of Milan
 
+
 ## Publications
+
 
 `2020`
 Nono-Biennale di Venezia: from '68's Demonstrations to Prometeo. La Biennale, Venezia.
 
-### Journals
+
+## Journals
+
 
 `2020`
 Vittorio Fellegara: a Retrospective Look, Musica/Realtà 122
 
+
 ## Occupation
+
 
 `2020-current`
 __Adjunct Professor__, Department of Cultural and Environmental Heritage, University of Milan
@@ -73,7 +81,9 @@ __Resident Researcher__, Biennale di Venezia
 `2016-current`
 __Violin Teacher__, Ricordi Music School (Milan)
 
+
 ## Discography
+
 
 `2022`
 Garçon Raté EP, Ali + The Stolen Boy
@@ -100,7 +110,9 @@ Let the Water Flow, Pashmak
 
 -Composer, violinist and synth player
 
+
 ## Concerts
+
 
 `2022`
 Clio and Maurice
