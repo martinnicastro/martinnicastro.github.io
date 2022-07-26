@@ -25,7 +25,7 @@ Diploma in Classical Violin
 
 `2015 - 2016`
 __Conservatory of Milan__
-Courses in Electroacustic Composition (40 CFU)
+Courses in Electroacustic Composition (40 ECTS)
 
 Awards
 
