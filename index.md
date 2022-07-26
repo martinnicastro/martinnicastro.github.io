@@ -1,30 +1,16 @@
 ---
 layout: page
-exceptr: about me...
+excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Martin Nicastro is a violinist, composer and academic researcher. 
+## Current Interests and Projects:
 
-His music was reviewed by various influential magazines, such as <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> or <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to the renowned Italian webzine Rockit.
-
-As a touring musician he played in more than 15 countries across Europe, also ranging from Morocco to Russia. He now collaborates, both as composer, arranger and performer, with, among the others, <b>Clio M</b> and <b>Ali + The Stolen Boy</b>.
-
-He graduated in Musicology at the University of Milan and has a diploma in violin at the G. Verdi Conservatory of the same city. He currently teaches "Editing and Musical Representation" at the <b>University of Milan</b> and “Data Visualization” during EnExDi at the <b>University of Poitiers</b>.
-
-He is also a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research interests concern the intersections between Spatial Humanities and Musicology, popular music, contemporary music and music genres.
-
-
-## Current Interests:
-
-- Music, sound and space
-- Italian popular music history
-- Urban musicology
-- Deep mapping
-
-##  Music Collaborations:
-
-- Clio M
-- Ali + The Stolen Boy
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- DLorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
