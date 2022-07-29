@@ -19,4 +19,4 @@ menuorder: 10
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/Deerwaves.png" />
 
-<iframe align=center src="https://www.rockit.it/recensione/43246/pashmak-atlantic-thoughts?fbclid=IwAR3XZ5sEPpx5zDq8mKbriUgGT640lqieC17xNL-79wBHnu-ud4M3yGRIgqo" width="60%" height="300"></iframe>
+<iframe align=center src="https://www.rockit.it/recensione/43246/pashmak-atlantic-thoughts?fbclid=IwAR3XZ5sEPpx5zDq8mKbriUgGT640lqieC17xNL-79wBHnu-ud4M3yGRIgqo" width="80%" height="300"></iframe>
