@@ -9,7 +9,7 @@ menuorder: 2
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" />
 
-##### Composition, strings and synths arrangements, violin.
+#### Composition, strings and synths arrangements, violin.
 
 "A compendium of all the best of international rock (pop) experiments, excellently blended in this style roller coaster". <b>Deerwaves</b>
 
@@ -32,7 +32,7 @@ menuorder: 2
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_fragile.jpg" />
 
 
-##### Composition, strings arrangements, violin.
+#### Composition, strings arrangements, violin.
 
 "An impossible encounter between a voice and a violin, between Nina Simone and Arca". <b>Rolling Stone</b>
 
@@ -55,7 +55,7 @@ menuorder: 2
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_ali.jpg" />
 
-##### Strings and synths arrangements, violin.
+#### Strings and synths arrangements, violin.
 
 
 #### Selected tracks
