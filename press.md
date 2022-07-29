@@ -7,7 +7,11 @@ menuorder: 10
 
 ### Clio & Maurice
 
-<iframe align=center src="https://schonmagazine.com/interview-clio-and-maurice/?fbclid=IwAR39dEFeJ3lFTBQK7cTYkW50n7m6DHexXyQGj27T9qydFLg9yYOdDJ8iDYw" width="130%" height="400"></iframe>
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/schon.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/schon_1.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/schon_2.png" />
 
 
 
