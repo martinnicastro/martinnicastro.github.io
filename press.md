@@ -7,7 +7,7 @@ menuorder: 10
 
 ### Clio & Maurice
 
-<iframe align=center src="https://schonmagazine.com/interview-clio-and-maurice/?fbclid=IwAR39dEFeJ3lFTBQK7cTYkW50n7m6DHexXyQGj27T9qydFLg9yYOdDJ8iDYw" width="100%" height="400"></iframe>
+<iframe align=center src="https://schonmagazine.com/interview-clio-and-maurice/?fbclid=IwAR39dEFeJ3lFTBQK7cTYkW50n7m6DHexXyQGj27T9qydFLg9yYOdDJ8iDYw" width="130%" height="400"></iframe>
 
 
 
@@ -28,4 +28,4 @@ menuorder: 10
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/Deerwaves.png" />
 
-<iframe align=center src="https://www.rockit.it/recensione/43246/pashmak-atlantic-thoughts?fbclid=IwAR3XZ5sEPpx5zDq8mKbriUgGT640lqieC17xNL-79wBHnu-ud4M3yGRIgqo" width="100%" height="250"></iframe>
+<iframe align=center src="https://www.rockit.it/recensione/43246/pashmak-atlantic-thoughts?fbclid=IwAR3XZ5sEPpx5zDq8mKbriUgGT640lqieC17xNL-79wBHnu-ud4M3yGRIgqo" width="130%" height="250"></iframe>
