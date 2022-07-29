@@ -25,6 +25,23 @@ menuorder: 10
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/50_2.png" />
 
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/avant.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/bollettino.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/recensione_2.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/compilation.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/sky.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/dlso.png" />
+
+
+
+
+
+
 ### Pashmak
 
 
