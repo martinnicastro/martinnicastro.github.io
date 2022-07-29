@@ -7,7 +7,9 @@ menuorder: 2
 
 ### Pashmak, "Atlantic Thoughts" (2019)
 
-Composition, strings and synths arrangements, violin.
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" />
+
+##### Composition, strings and synths arrangements, violin.
 
 "A compendium of all the best of international rock (pop) experiments, excellently blended in this style roller coaster". <b>Deerwaves</b>
 
@@ -27,7 +29,10 @@ Composition, strings and synths arrangements, violin.
 
 ### Clio and Maurice, "Fragile EP" (2020)
 
-Composition, strings arrangements, violin.
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_fragile.jpg" />
+
+
+##### Composition, strings arrangements, violin.
 
 "An impossible encounter between a voice and a violin, between Nina Simone and Arca". <b>Rolling Stone</b>
 
@@ -39,6 +44,7 @@ Composition, strings arrangements, violin.
 
 "An extraordinary duo that we are really happy to be able to air for a whole month". <b>MTV Music</b>
 
+
 #### Selected tracks
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04wd9rKHMKsyC03vKPpimS?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -47,7 +53,10 @@ Composition, strings arrangements, violin.
 
 ### Ali + The Stolen Boy (2022)
 
-Strings and synths arrangements, violin.
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_ali.jpg" />
+
+##### Strings and synths arrangements, violin.
+
 
 #### Selected tracks
 
