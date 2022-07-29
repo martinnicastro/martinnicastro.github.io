@@ -15,8 +15,11 @@ menuorder: 10
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/schon_2.png" />
 
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/mtv.png" />
 
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/lost_1.png" />
 
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/lost_2.png" />
 
 
 
