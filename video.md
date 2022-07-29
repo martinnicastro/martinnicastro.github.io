@@ -32,7 +32,15 @@ Screenwriter & art director: Sofia Atzori
 
 Director & editor: Davide Morabito
 
-"Sofia Atzori and Davide Morabito graft an intimate and personal story, which through the decor, the flowers and the landscape reflects the inner conflict and the singer's personal research". <b>Videoclip Italia</b>
+__Broadcast on heavy rotation on MTV Music during March 2020__
+
+"The video is an immersion in the color red and in the escape from it. The minimal and macro reality of the fabric, the heaviness of a thick curtain, the appearance of dried flowers as signs of time, and of a veil that suffocates and filters reality are the elements that accompany Clio. 
+
+Then slowly the protagonist undresses of this prison and the video opens to the contrast between the violence of red and a pastel-colored reality, soft, more serene and homely.
+
+And finally, the sensory journey expands into the open air, where red is no longer there and there is only the color of a deserted beach and the sound of the sea in the distance" <b>MTV New Generation</b>
+
+"Equally exciting is the video, in which Sofia Atzori and Davide Morabito create images full of intense suggestions, moving among hidden symbols, disturbing flowers, and the deserts of Sardinia, where in the end the inner conflict of the protagonist seems to find a respite". <b>Off Topic</b>
 
 <iframe width="280" height="200" src="https://www.youtube.com/embed/_Sn1xplQkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
