@@ -7,7 +7,7 @@ menuorder: 10
 
 ### Clio & Maurice
 
-<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/schon.png" />
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/Schon.png" />
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/schon_1.png" />
 
