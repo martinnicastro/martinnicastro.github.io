@@ -58,4 +58,7 @@ menuorder: 10
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/Deerwaves.png" />
 
-<iframe align=center src="https://www.rockit.it/recensione/43246/pashmak-atlantic-thoughts?fbclid=IwAR3XZ5sEPpx5zDq8mKbriUgGT640lqieC17xNL-79wBHnu-ud4M3yGRIgqo" width="130%" height="250"></iframe>
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/recensione_pash.png" />
+
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Press/recensione_pash_2.png" />
+
