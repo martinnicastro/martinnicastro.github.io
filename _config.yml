@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Martin Nicastro
-  avatar: bio.photo.jpg
+  avatar: bio_photo.jpg
   bio: "composer, violinist, researcher."
   email: nicastromartin@gmail
   # Do not include the @ symbol in your Twitter username
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: https://www.instagram.com/martinnnicastro/
+  instagram: martinnnicastro
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
