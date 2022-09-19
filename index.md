@@ -19,7 +19,7 @@ He graduated in Musicology at the University of Milan and has a diploma in violi
 
 He is also a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research interests concern the intersections between Spatial Humanities and Musicology, popular music, contemporary music and music genres.
 
-Management:[Divergence](https://divergencestudio.com/)
+Management: [Divergence Studio](https://divergencestudio.com/)
 
 ## Current Interests:
 
