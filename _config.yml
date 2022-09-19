@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Martin Nicastro
-  avatar:
+  avatar: bio.photo.jpg
   bio: "composer, violinist, researcher."
   email: nicastromartin@gmail
   # Do not include the @ symbol in your Twitter username
