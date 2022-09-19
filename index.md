@@ -6,10 +6,10 @@ menuorder: 1
 ---
 
 
-<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Martin2.jpg" />
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Martin2_2.jpg" />
 
 
-Martin Nicastro is a violinist, composer and academic researcher. 
+Martin Nicastro is a violinist, composer and academic researcher.
 
 His music was reviewed by various influential magazines, such as <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> or <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to the renowned Italian webzine Rockit.
 
