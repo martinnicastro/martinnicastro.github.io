@@ -15,4 +15,6 @@ Click here to open "venues_performers" network graph: [graph_2](https://martinni
 
 Click here to open "genres_performers" network graph: [graph_3](https://martinnicastro.github.io/generi_spazi.svg)
 
+Click here to open "genres_genres" network graph: [graph_4](blob:null/13700648-d6f8-4557-b3dd-8cd353ecc8ab)
+
 <iframe src="https://martinnicastro.github.io/export_2.html" width="100%" height="600"></iframe>
