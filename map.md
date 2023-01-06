@@ -7,7 +7,9 @@ menuorder: 4
 
 ### Milan 1958-1962: Musical Topography of a Forgotten City (work in progress)
 
-Click here to open the full map: [Interactive map](https://martinnicastro.github.io/export_2.html)
+Click here to open the full map (prototype): [Interactive map](https://martinnicastro.github.io/export_2.html)
+
+Click here to open the full map (geographies): [Interactive map](https://martinnicastro.github.io/geografia.html)
 
 Click here to open "performers_composers" network graph: [graph_1](https://martinnicastro.github.io/compositori_musicisti3.svg)
 
