@@ -6,18 +6,18 @@ nav: true
 nav_order: 3
 ---
 
-## Live
+## __Live__
 
-#### Clio & Maurice live in Milan, 2020
+##### Clio & Maurice live in Milan (2020)
 
-<iframe width="380" height="300" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<p><iframe width="580" height="480" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
-#### Pashmak live in Berlin, 2015
+#### Pashmak live in Berlin (2015)
 
-<iframe width="380" height="300" src="https://www.youtube.com/embed/e4Cz5-pweis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<p><iframe width="580" height="480" src="https://www.youtube.com/embed/e4Cz5-pweis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
 
-## Music Videos
+## __Music Videos__
 
 #### Harp (2018)
 
@@ -25,7 +25,7 @@ Director: Laura Samani (__2022 David di Donatello winner for best new director__
 
 "An excellent job: everything that the Italian independent video clip could be, but most of the time it is not. Chapeau". <b>Videoclip Italia</b>
 
-<iframe width="380" height="300" src="https://www.youtube.com/embed/hkIo8ApW5Jo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<p><iframe width="580" height="480" src="https://www.youtube.com/embed/hkIo8ApW5Jo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 #### Lost (2019)
 
@@ -43,7 +43,7 @@ And finally, the sensory journey expands into the open air, where red is no long
 
 "Equally exciting is the video, in which Sofia Atzori and Davide Morabito create images full of intense suggestions, moving among hidden symbols, disturbing flowers, and the deserts of Sardinia, where in the end the inner conflict of the protagonist seems to find a respite". <b>Off Topic</b>
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/_Sn1xplQkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<p><iframe width="580" height="2480" src="https://www.youtube.com/embed/_Sn1xplQkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe><p>
 
 
 
