@@ -6,9 +6,9 @@ nav: true
 nav_order: 1
 ---
 
-### Pashmak, "Atlantic Thoughts" (2019)
+### Pashmak, "Atlantic Thoughts" (2019)   
 
-<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" />
+<p><img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" /></p>   
 
 #### Composition, strings and synths arrangements, violin.
 
