@@ -10,7 +10,7 @@ nav_order: 3
 
 ##### Clio & Maurice live in Milan (2020)
 
-<p><iframe width="580" height="480" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+<p><iframe width="100%" height="480" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
 
 <div id="Container"
