@@ -21,13 +21,22 @@
   },
   "work": [
     {
+      "name": "EnExDi Doctoral Winter School (Ecole Normale Supérieure Lyon)",
+      "position": "Trainer",
+      "url": "https://enexdi.sciencesconf.org/",
+      "startDate": "2022",
+      "endDate": "current",
+      "summary": "Teacher of the workshop: Data Visualization"  
+    },
+    {
       "name": "Department of Cultural and Environmental Heritage, University of Milan",
       "position": "Adjunct Professor",
-      "url": "https://example.com",
+      "url": "https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/laboratorio-editing-e-rappresentazione-digitale-di-testi-musicali-ed-eventi-sonori",
       "startDate": "2020",
       "endDate": "2022",
       "summary": "Teacher of the course: Digital editing and representation of musical texts and sound events."  
     }
+    
   ],
   "volunteer": [],
   "education": [
@@ -46,18 +55,17 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Small Grant AIUCD",
+      "date": "2022",
+      "awarder": "Associazione per l'informatica umanistica e la cultura digitale",
+      "summary": "One year research grant from the Digital Humanities association."
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
