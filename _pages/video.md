@@ -10,21 +10,22 @@ nav_order: 3
 
 ##### Clio & Maurice live in Milan (2020)
 
-<p><iframe width="100%" height="480" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
-
-<div id="Container"
+<p><div id="Container"
      style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-     <iframe id="ViostreamIframe" width="100%" height="100%" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
-</div>
+     <iframe id="Lost" width="100%" height="100%" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div></p>
 
 
 
 
 ##### Pashmak live in Berlin (2015)
 
-<p><iframe width="580" height="480" src="https://www.youtube.com/embed/e4Cz5-pweis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
+<p><div id="Container"
+     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe id="Ropes" width="100%" height="100%" src="https://www.youtube.com/embed/e4Cz5-pweis" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div></p>
 
 ## __Music Videos__
 
@@ -34,7 +35,12 @@ Director: Laura Samani (__2022 David di Donatello winner for best new director__
 
 "An excellent job: everything that the Italian independent video clip could be, but most of the time it is not. Chapeau". <b>Videoclip Italia</b>
 
-<p><iframe width="580" height="480" src="https://www.youtube.com/embed/hkIo8ApW5Jo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+
+<p><div id="Container"
+     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe id="Harp" width="100%" height="100%" src="https://www.youtube.com/embed/hkIo8ApW5Jo" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div></p>
+
 
 ##### Lost (2019)
 
@@ -52,10 +58,11 @@ And finally, the sensory journey expands into the open air, where red is no long
 
 "Equally exciting is the video, in which Sofia Atzori and Davide Morabito create images full of intense suggestions, moving among hidden symbols, disturbing flowers, and the deserts of Sardinia, where in the end the inner conflict of the protagonist seems to find a respite". <b>Off Topic</b>
 
-<p><iframe width="580" height="480" src="https://www.youtube.com/embed/N_Sn1xplQkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
-
-
+<p><div id="Container"
+     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe id="Lost_clip" width="100%" height="100%" src="https://https://www.youtube.com/embed/N_Sn1xplQkI" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div></p>
 
 
 
