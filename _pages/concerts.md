@@ -1,24 +1,23 @@
 ---
-layout: resume
-menuorder: 9
-menutitle: Concerts
+layout: page
+title: concerts
+permalink: /concerts/
+nav: true
+nav_order: 4
 ---
 
 
 Upcoming concerts
 
-`2/8/2022`
-<b>Cremona</b>, Arci Festa with Clio and Maurice
 
-`18/8/2022`
-<b>Berlin</b>, Madame Claude with Clio and Maurice
+
 
 Past concerts
 
 `2022`
 Clio and Maurice (Italy and Germany)
 
-- <b>Chieti</b> (Primo), <b>Ancona</b> (Villa Buia), <b>Palmi</b> (Officine Balena), <b>Bari</b> (Hotel Imago), <b>Taranto</b> (Caffè Letterario), <b>Altamura</b> (Asfodelo)
+- <b>Chieti</b> (Primo), <b>Ancona</b> (Villa Buia), <b>Palmi</b> (Officine Balena), <b>Bari</b> (Hotel Imago), <b>Taranto</b> (Caffè Letterario), <b>Altamura</b> (Asfodelo), <b>Cremona</b>, Arci Festa, <b>Berlin</b>, Madame Claude 
 
 `2022`
 Mattia Faes (Italy)
