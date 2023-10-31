@@ -10,7 +10,7 @@ nav_order: 1
 
 <p><img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" /></p>   
 
-###### Composition, strings and synths arrangements, violin.
+##### __Composition, strings and synths arrangements, violin.__
 
 "A compendium of all the best of international rock (pop) experiments, excellently blended in this style roller coaster". <b>Deerwaves</b>
 
@@ -33,7 +33,7 @@ nav_order: 1
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_fragile.jpg" />
 
 
-#### Composition, strings arrangements, violin.
+##### __Composition, strings arrangements, violin.__
 
 "An impossible encounter between a voice and a violin, between Nina Simone and Arca". <b>Rolling Stone</b>
 
@@ -48,21 +48,21 @@ nav_order: 1
 
 #### Selected tracks
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04wd9rKHMKsyC03vKPpimS?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4RN3bOxPu8WMfDrZxa5WpQ?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04wd9rKHMKsyC03vKPpimS?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4RN3bOxPu8WMfDrZxa5WpQ?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
 
 
 ### Ali + The Stolen Boy (2022)
 
 <img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_ali.jpg" />
 
-#### Strings and synths arrangements, violin.
+##### __Strings and synths arrangements, violin.__
 
 
 #### Selected tracks
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4z5ZFH8SRR9BRkcqQlWcM2?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KVYLfT8ZUPF4mbNiksvVA?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4z5ZFH8SRR9BRkcqQlWcM2?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KVYLfT8ZUPF4mbNiksvVA?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
 
 
 
