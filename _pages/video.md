@@ -61,7 +61,7 @@ And finally, the sensory journey expands into the open air, where red is no long
 
 <p> <div id="Container"
      style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-     <iframe id="Lostclip" width="100%" height="100%" src="https://https://www.youtube.com/embed/N_Sn1xplQkI" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+     <iframe id="Lostclip" width="100%" height="100%" src="https://www.youtube.com/embed/N_Sn1xplQkI" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
 </div> </p>
 
 
