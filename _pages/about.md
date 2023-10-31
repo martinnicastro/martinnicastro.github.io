@@ -21,13 +21,11 @@ Martin Nicastro is a violinist, composer and academic researcher.
 
 His music was reviewed by various influential magazines, such as <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> or <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to the renowned Italian webzine Rockit.
 
-As a touring musician he played in more than 15 countries across Europe, also ranging from Morocco to Russia. He now collaborates, both as composer, arranger and performer, with, among the others, <b>Clio M</b> and <b>Ali + The Stolen Boy</b>.
+As a touring musician he played in more than 15 countries across Europe, in Morocco and Russia. He now collaborates, both as composer, arranger and performer, with (Clio M)[https://www.instagram.com/cliommusic/] and (Ali + The Stolen Boy)[https://www.instagram.com/alixdo0000000/].
 
-He graduated in Musicology at the University of Milan and has a diploma in violin at the G. Verdi Conservatory of the same city. 
+He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"](https://musictopography.github.io), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
 
-He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"] (https://musictopography.github.io/), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
-
-He is part of [Live Music Mapping Project (LMMP)] (https://livemusicresearch.org/), an international research group (University of Liverpool, Aston University, Newcastle University, Hamburg Music, University of Pavia) that focuses on the comparative study of urban live music ecologies. Within the group he is responsible for the development of geospatial visualizations. 
+He is part of [Live Music Mapping Project (LMMP)](https://livemusicresearch.org), an international research group (University of Liverpool, Aston University, Newcastle University, Hamburg Music, University of Pavia) that focuses on the comparative study of urban live music ecologies. Within the group he is responsible for the development of geospatial visualizations. 
 
 
 ## Current research interests:
