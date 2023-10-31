@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Selected Works
-menutitle: Music
-menuorder: 2
+title: music
+permalink: /music/
+nav: true
+nav_order: 1
 ---
 
 ### Pashmak, "Atlantic Thoughts" (2019)
