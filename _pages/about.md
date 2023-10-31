@@ -25,10 +25,12 @@ As a touring musician he played in more than 15 countries across Europe, also ra
 
 He graduated in Musicology at the University of Milan and has a diploma in violin at the G. Verdi Conservatory of the same city. 
 
-He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"] (https://musictopography.github.io/), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.  
+He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"] (https://musictopography.github.io/), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
+
+He is part of [Live Music Mapping Project (LMMP)] (https://livemusicresearch.org/), an international research group (University of Liverpool, Aston University, Newcastle University, Hamburg Music, University of Pavia) that focuses on the comparative study of urban live music ecologies. 
 
 
-## Current Interests:
+## Current research interests:
 
 - Music, sound and space
 - Live music history
@@ -36,7 +38,7 @@ He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). H
 - Urban musicology
 - Deep mapping
 
-##  Music Collaborations:
+##  Music collaborations:
 
 - Clio M
 - Ali + The Stolen Boy
