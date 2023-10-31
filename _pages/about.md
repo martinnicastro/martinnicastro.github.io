@@ -17,8 +17,26 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Martin Nicastro is a violinist, composer and academic researcher.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His music was reviewed by various influential magazines, such as <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> or <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to the renowned Italian webzine Rockit.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a touring musician he played in more than 15 countries across Europe, also ranging from Morocco to Russia. He now collaborates, both as composer, arranger and performer, with, among the others, <b>Clio M</b> and <b>Ali + The Stolen Boy</b>.
+
+He graduated in Musicology at the University of Milan and has a diploma in violin at the G. Verdi Conservatory of the same city. 
+
+He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"] (https://musictopography.github.io/), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.  
+
+
+## Current Interests:
+
+- Music, sound and space
+- Live music history
+- Italian popular music history
+- Urban musicology
+- Deep mapping
+
+##  Music Collaborations:
+
+- Clio M
+- Ali + The Stolen Boy
