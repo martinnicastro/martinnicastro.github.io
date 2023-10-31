@@ -27,7 +27,7 @@ He graduated in Musicology at the University of Milan and has a diploma in violi
 
 He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"] (https://musictopography.github.io/), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
 
-He is part of [Live Music Mapping Project (LMMP)] (https://livemusicresearch.org/), an international research group (University of Liverpool, Aston University, Newcastle University, Hamburg Music, University of Pavia) that focuses on the comparative study of urban live music ecologies. 
+He is part of [Live Music Mapping Project (LMMP)] (https://livemusicresearch.org/), an international research group (University of Liverpool, Aston University, Newcastle University, Hamburg Music, University of Pavia) that focuses on the comparative study of urban live music ecologies. Within the group he is responsible for the development of geospatial visualizations. 
 
 
 ## Current research interests:
