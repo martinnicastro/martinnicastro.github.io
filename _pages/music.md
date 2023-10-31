@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: music
 permalink: /music/
 nav: true
 nav_order: 1
