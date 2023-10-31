@@ -10,7 +10,7 @@ nav_order: 1
 
 <p><img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" /></p>   
 
-#### Composition, strings and synths arrangements, violin.
+###### Composition, strings and synths arrangements, violin.
 
 "A compendium of all the best of international rock (pop) experiments, excellently blended in this style roller coaster". <b>Deerwaves</b>
 
@@ -22,9 +22,9 @@ nav_order: 1
 
 #### Selected tracks
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72DekUA3ExFWMYlB3xtQEO?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72DekUA3ExFWMYlB3xtQEO?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LT1kV3MXWek26ks71Zi7L?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BK6V3rqSL6rhDZZFTHJp2?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BK6V3rqSL6rhDZZFTHJp2?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
 
 
 
