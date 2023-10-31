@@ -12,6 +12,8 @@ nav_order: 3
 
 <p><iframe width="580" height="480" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 
+[![Watch the video](https://img.youtube.com/vi/NHqgISJTMMk/maxresdefault.jpg)](https://youtu.be/NHqgISJTMMk)
+
 ##### Pashmak live in Berlin (2015)
 
 <p><iframe width="580" height="480" src="https://www.youtube.com/embed/e4Cz5-pweis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
