@@ -1,7 +1,7 @@
 ---
 layout: page
-title: music
-permalink: /music/
+title: press
+permalink: /press/
 nav: true
 nav_order: 2
 ---
