@@ -34,8 +34,3 @@ As a touring musician he played in more than 15 countries across Europe, in Moro
 - Italian popular music history
 - Urban musicology
 - Deep mapping
-
-##  Music collaborations:
-
-- Clio M
-- Ali + The Stolen Boy
