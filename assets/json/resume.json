@@ -19,37 +19,135 @@
       }
     ]
   },
-  "work": [
+ "work": [
     {
-      "name": "EnExDi Doctoral Winter School (Ecole Normale Supérieure Lyon)",
+      "name": "University of Pavia, Department of Musicology",
+      "position": "Postdoctoral Research Fellow",
+      "url": "https://musicologia.unipv.it/",
+      "startDate": "2024-07",
+      "endDate": "2025-09",
+      "summary": "Research fellow in the project FILMUSP – Music publishing and film: toward a production history of the soundtrack in Italy (1958-1976)."
+    },
+    {
+      "name": "Live Music Mapping Project (University of Liverpool, Aston University, University of Pavia)",
+      "position": "Interactive Mapping Developer",
+      "url": "https://www.livemusicresearch.org/",
+      "startDate": "2023-04",
+      "endDate": "current",
+      "summary": "Developer of interactive digital maps in R for live music ecosystems."
+    },
+    {
+      "name": "EnExDi Doctoral Winter/Summer School (University of Poitiers, ENS Lyon)",
       "position": "Trainer",
       "url": "https://enexdi.sciencesconf.org/",
       "startDate": "2022",
-      "endDate": "current",
-      "summary": "Teacher of the workshop: Data Visualization"  
+      "endDate": "2024",
+      "summary": "Teacher of the course: 'Data Analysis and Visualization: Network Analysis' (18 hours across editions 2022, 2023, 2024)."
     },
     {
       "name": "Department of Cultural and Environmental Heritage, University of Milan",
       "position": "Adjunct Professor",
-      "url": "https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/laboratorio-editing-e-rappresentazione-digitale-di-testi-musicali-ed-eventi-sonori",
+      "url": "https://www.unimi.it/",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "Teacher of the course: Digital editing and representation of musical texts and sound events."  
+      "summary": "Teacher of the laboratory: 'Digital editing and representation of musical texts and sound events' (20 hours)."
+    },
+    {
+      "name": "University of Ferrara",
+      "position": "Adjunct Professor (Supplementary Teaching)",
+      "url": "https://www.unife.it/",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Master's degree in 'Education, Communication and Digital Citizenship'. Seminar: 'Music and Technologies'. Digital mapping and network analysis applied to musicological research and teaching (24 hours)."
+    },
+    {
+      "name": "University of Pavia, Department of Musicology",
+      "position": "Visiting Lecturer",
+      "url": "https://musicologia.unipv.it/",
+      "startDate": "2023-05",
+      "endDate": "2023-06",
+      "summary": "Seminar 'From data-poor to data-rich? Musicology goes digital'. Workshop in digital mapping and music studies (8 hours)."
+    },
+    {
+      "name": "CDEC Foundation, Milan",
+      "position": "Lecturer",
+      "url": "https://www.cdec.it/",
+      "startDate": "2023-09",
+      "endDate": "2023-10",
+      "summary": "Course 'Digital tools for the teaching of the humanities'. Digital text analysis, digital mapping, and network analysis (8 hours)."
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Pavia, Cremona, Italy",
+      "institution": "University of Pavia",
       "url": "https://studiumanistici.dip.unipv.it/it/ricerca/opportunita/dottorati/dottorato-scienze-del-testo-letterario-e-musicale",
       "area": "Musicology",
-      "studyType": "PhD",
+      "studyType": "PhD in Literary and Musical Text Sciences",
       "startDate": "2020",
-      "endDate": "current",
-      "score": "",
+      "endDate": "2024-02",
+      "score": "Distinction with honors",
       "courses": [
-        "Tutor: Prof. Alessandro Bratus (University of Pavia), Prof. Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines).",
+        "Supervisors: Prof. Alessandro Bratus (University of Pavia), Prof. Giovanni Pietro Vitali (University of Versailles Saint-Quentin-en-Yvelines).",
         "Thesis: 'Milan 1958-1962: Music Topography of a City'"
+      ]
+    },
+    {
+      "institution": "University of Milan",
+      "url": "https://www.unimi.it/",
+      "area": "Music and Performing Arts",
+      "studyType": "MA",
+      "startDate": "2015",
+      "endDate": "2018-03",
+      "score": "110/110 cum laude",
+      "courses": [
+        "Supervisor: Prof. Maurizio Corbella.",
+        "Thesis: 'Two Colors in the Head: The Aesthetics of Radiohead between Experimentation and Market'."
+      ]
+    },
+    {
+      "institution": "Leipzig University",
+      "url": "https://esu.culintec.de/",
+      "area": "Digital Humanities",
+      "studyType": "Summer School",
+      "startDate": "2021-08-03",
+      "endDate": "2021-08-13",
+      "score": "6 ECTS",
+      "courses": [
+        "Specialization in Humanities Data and Mapping Environments."
+      ]
+    },
+    {
+      "institution": "Conservatorio Giuseppe Verdi, Milan",
+      "url": "https://www.consmilano.it/",
+      "area": "Violin",
+      "studyType": "Second-level Academic Diploma",
+      "startDate": "2015",
+      "endDate": "2017-02"
+    },
+    {
+      "institution": "University of Milan",
+      "url": "https://www.unimi.it/",
+      "area": "Modern Literature",
+      "studyType": "BA",
+      "startDate": "2011",
+      "endDate": "2015-03",
+      "score": "110/110 cum laude",
+      "courses": [
+        "Supervisor: Prof. Michele Mari.",
+        "Thesis: 'Interactions between Sound and Word in Tasso and Monteverdi'."
+      ]
+    },
+    {
+      "institution": "Conservatorio Giuseppe Verdi, Milan",
+      "url": "https://www.consmilano.it/",
+      "area": "Electroacoustic Composition",
+      "studyType": "Single courses",
+      "startDate": "2015",
+      "endDate": "2016",
+      "courses": [
+        "Electroacoustic Composition, History of Electroacoustic Music, Analysis of Electroacoustic Music (M° Giovanni Cospito).",
+        "Synthesis and Sampling Techniques, Music Informatics (M° Sylviane Sapir)."
       ]
     }
   ],
