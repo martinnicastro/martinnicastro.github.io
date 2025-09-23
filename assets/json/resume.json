@@ -151,16 +151,106 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Small Grant AIUCD",
-      "date": "2022",
-      "awarder": "Associazione per l'informatica umanistica e la cultura digitale",
-      "summary": "One year research grant from the Digital Humanities italian association."
-    }
-  ],
+"awards": [
+  {
+    "title": "Seal of Excellence – Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship",
+    "date": "2024",
+    "awarder": "European Research Council",
+    "summary": "Awarded Seal of Excellence with a score of 93.6/100 for the project 'Historical Atlas of European Live Music: a Digital Framework (HAELM: DF)', in collaboration with the University of Liverpool."
+  },
+  {
+    "title": "Small Grant AIUCD",
+    "date": "2022",
+    "awarder": "Associazione per l'Informatica Umanistica e la Cultura Digitale",
+    "summary": "One-year research grant for the project 'Milan 1958-1962: Music Topography of a City'. Funded with €750."
+  },
+  {
+    "title": "Vittorio Fellegara Prize",
+    "date": "2019",
+    "awarder": "Associazione NoMus",
+    "summary": "Award for the best musicological research on Milanese composer Vittorio Fellegara. Funded with €2,000."
+  }
+],
   "certificates": [],
-  "publications": [],
+  "publications": [
+  {
+    "name": "From Thin to Deep: Mapping Urban Music Through Multimedia Web Apps",
+    "publisher": "Sound Stage Screen, III/2",
+    "releaseDate": "2024",
+    "url": "https://doi.org/10.54103/sss22317",
+    "summary": "Peer-reviewed article. Open access."
+  },
+  {
+    "name": "Combining Network Analysis and GIS for Music Historiography: Genre, Urban Space and Music Ecologies",
+    "publisher": "Umanistica Digitale, VIII/17",
+    "releaseDate": "2024",
+    "url": "https://doi.org/10.6092/issn.2532-8816/19246",
+    "summary": "Peer-reviewed article. Open access."
+  },
+  {
+    "name": "Milano 1958-1962: Music Topography of a City. Network Analysis, Digital Mapping and Music Practices",
+    "publisher": "NeoClassica (Rome)",
+    "releaseDate": "2025",
+    "url": "",
+    "summary": "Monograph. In press."
+  },
+  {
+    "name": "Mapping Live Music – Technical Solutions, Delivery, and Challenges",
+    "publisher": "Palgrave Macmillan (London)",
+    "releaseDate": "2025",
+    "url": "",
+    "summary": "Book chapter in 'Live Music Ecologies – Charting the Presence of Live Music in Urban Economics'. In press."
+  },
+  {
+    "name": "Suoni urbani (Urban Sounds)",
+    "publisher": "Enciclopedia della musica: 1900-2025, Treccani (Rome)",
+    "releaseDate": "2025",
+    "url": "",
+    "summary": "Encyclopedia entry. Non peer-reviewed."
+  },
+  {
+    "name": "Vittorio Fellegara: uno sguardo retrospettivo (Vittorio Fellegara: a Retrospective Look)",
+    "publisher": "Musica/Realtà 122",
+    "releaseDate": "2020",
+    "url": "",
+    "summary": "Non peer-reviewed article."
+  },
+  {
+    "name": "Nono-Biennale di Venezia: dalle contestazioni del ’68 alla prima del Prometeo (Nono-Biennale di Venezia: from ‘68s Demonstrations to Prometeo)",
+    "publisher": "La Biennale (Venice)",
+    "releaseDate": "2020",
+    "url": "",
+    "summary": "Non peer-reviewed article."
+  },
+  {
+    "name": "Liverpool Music Sector Map",
+    "publisher": "University of Liverpool / LMMP",
+    "releaseDate": "2024",
+    "url": "https://www.lcrmusicboard.co.uk/music-sector-map/",
+    "summary": "Interactive web application (software)."
+  },
+    {
+    "name": "Liverpool Live Music Map",
+    "publisher": "University of Liverpool / LMMP",
+    "releaseDate": "2025",
+    "url": "https://www.lcrmusicboard.co.uk/venues-map/",
+    "summary": "Interactive web application (software)."
+  },
+  {
+    "name": "Milan_1958_1962_Music_Topography_of_a_City (v1.0.0)",
+    "publisher": "Zenodo",
+    "releaseDate": "2023",
+    "url": "https://doi.org/10.5281/zenodo.8340459",
+    "summary": "Dataset published on Zenodo."
+  },
+  {
+    "name": "Milan 1958–1962: Music Topography of a City (Main Dataset)",
+    "publisher": "Zenodo",
+    "releaseDate": "2023",
+    "url": "https://doi.org/10.5281/zenodo.8126445",
+    "summary": "Dataset published on Zenodo."
+  }
+],
   "skills": [
   {
     "name": "Humanistic Data Science",

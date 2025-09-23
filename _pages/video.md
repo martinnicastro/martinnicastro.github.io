@@ -30,8 +30,6 @@ Director: Matteo Maggi
 </div> 
 
 
-<p><h2> <strong> Live </strong></h2></p> 
-
 <p><h5> Clio & Maurice live in Milan (2020)</h5></p>
 
 
