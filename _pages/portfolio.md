@@ -6,25 +6,17 @@ nav: true
 nav_order: 1
 ---
 
-### Pashmak, "Atlantic Thoughts" (2019)   
 
-<p><img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" /></p>   
+### Clio M, "Tabula" (2024)
 
-##### __Composition, strings and synths arrangements, violin.__
+<img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/tabula_cover.png" />
 
-"A compendium of all the best of international rock (pop) experiments, excellently blended in this style roller coaster". <b>Deerwaves</b>
 
-"A mixture of sounds and influences among the most distant - from avant-garde  to electronics, from progressive nuances to the Balkans - for a perfectly harmonic synthesis, a new sound that the Italian scene so badly needs". <b>Rolling Stone</b>
+<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7floZSDNQMyJWPrNTuz2nH?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0qf70GlWYXREmakHxdwrmb?si=9ca72ec0f2d74f4a?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
 
-"Great record of an unknown genre, you travel with the mind and the body. The musical atmospheres of Pashmak have few boundaries". <b>Rockit</b> (Record of the week)
+##### __Composition, strings arrangements, violin.__
 
-"Even the most conventional moments convince and capture the listener [...] the Milanese quartet demonstrates that it has embraced the most significant suggestions of international electronic pop". <b>Sentireascoltare</b>
-
-#### Selected tracks
-
-<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72DekUA3ExFWMYlB3xtQEO?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LT1kV3MXWek26ks71Zi7L?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BK6V3rqSL6rhDZZFTHJp2?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
 
 
 
@@ -63,6 +55,29 @@ nav_order: 1
 
 <p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4z5ZFH8SRR9BRkcqQlWcM2?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KVYLfT8ZUPF4mbNiksvVA?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
+
+
+### Pashmak, "Atlantic Thoughts" (2019)   
+
+<p><img src = "https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/main/images/Works/cover_pash.jpg" /></p>   
+
+##### __Composition, strings and synths arrangements, violin.__
+
+"A compendium of all the best of international rock (pop) experiments, excellently blended in this style roller coaster". <b>Deerwaves</b>
+
+"A mixture of sounds and influences among the most distant - from avant-garde  to electronics, from progressive nuances to the Balkans - for a perfectly harmonic synthesis, a new sound that the Italian scene so badly needs". <b>Rolling Stone</b>
+
+"Great record of an unknown genre, you travel with the mind and the body. The musical atmospheres of Pashmak have few boundaries". <b>Rockit</b> (Record of the week)
+
+"Even the most conventional moments convince and capture the listener [...] the Milanese quartet demonstrates that it has embraced the most significant suggestions of international electronic pop". <b>Sentireascoltare</b>
+
+#### Selected tracks
+
+<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72DekUA3ExFWMYlB3xtQEO?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LT1kV3MXWek26ks71Zi7L?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
 
 
 
