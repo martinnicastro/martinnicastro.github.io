@@ -17,15 +17,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Martin Nicastro is a violinist, composer and academic researcher.
+Martin Nicastro (PhD) is a violinist, composer and academic researcher.
 
-He is a PhD candidate in Musicology at the <b>University of Pavia</b> (Italy). His research project, ["Milan 1958-1962: Music Topography of a City"](https://musictopography.github.io), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
+Currently, he is a musicology post-doctoral researcher at the University of Pavia (Italy).
 
-He is part of [Live Music Mapping Project (LMMP)](https://livemusicresearch.org), an international research group (University of Liverpool, Aston University, Newcastle University, Hamburg Music, University of Pavia) that focuses on the comparative study of urban live music ecologies. Within the group he is responsible for the development of geospatial visualizations. 
+He is part of [Live Music Mapping Project (LMMP)](https://livemusicresearch.org), an international research group (University of Liverpool, Aston University, Newcastle University) that focuses on the comparative study of urban live music ecologies. Within the group he is responsible for the development of geospatial visualizations. 
+
+His PhD research project, ["Milan 1958-1962: Music Topography of a City"](https://musictopography.github.io), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
 
 His music was reviewed by various influential magazines, such as <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> or <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to the renowned Italian webzine Rockit.
 
-As a touring musician he played in more than 15 countries across Europe, in Morocco and Russia. He collaborates as a composer, arranger or session musician with [Clio M](https://www.instagram.com/cliommusic/) and [Ali + The Stolen Boy](https://www.instagram.com/alixdo0000000/).
+As a touring musician he played in more than 15 countries across Europe, in Morocco and Russia. He collaborates as a composer, arranger or session musician with [Clio M](https://www.instagram.com/cliommusic/).
 
 ## Current research interests:
 
