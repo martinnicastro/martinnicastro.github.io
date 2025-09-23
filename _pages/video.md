@@ -6,41 +6,39 @@ nav: true
 nav_order: 3
 ---
 
+
+<p><h2> <strong> Live </strong></h2></p> 
+
+
+
+<p><h5> Camilla Magli Alta Tensione (2024)</h5></p>
+
+Director: Matteo Maggi
+
+
+<div id="Container"
+     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe id="Lost" width="100%" height="100%" src="https://www.youtube.com/embed/buP2PB-1lFc?si=AhDHUrgF5guP3CJv" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div> 
+
+<p><h5> Clio M Sofar Milan (2024)</h5></p>
+
+
+<div id="Container"
+     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe id="Lost" width="100%" height="100%" src="https://www.youtube.com/embed/buP2PB-1lFc?si=AhDHUrgF5guP3CJv" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div> 
+
+
 <p><h2> <strong> Live </strong></h2></p> 
 
 <p><h5> Clio & Maurice live in Milan (2020)</h5></p>
-
 
 
 <div id="Container"
      style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
      <iframe id="Lost" width="100%" height="100%" src="https://www.youtube.com/embed/NHqgISJTMMk" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
 </div> 
-
-
-
-
-<p><h5> Pashmak live in Berlin (2015) </h5></p>
-
-
-<div id="Container"
-     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-     <iframe id="Ropes" width="100%" height="100%" src="https://www.youtube.com/embed/e4Cz5-pweis" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
-</div>
-
-<p><h2> <strong>Music Videos </strong></h2></p> 
-
-<p><h5> Harp (2018) </h5></p>
-
-Director: Laura Samani (<b>2022 David di Donatello winner for best new director</b>)
-
-<p>"An excellent job: everything that the Italian independent video clip could be, but most of the time it is not. Chapeau". <b>Videoclip Italia</b></p>
-
-
-<div id="Container"
-     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-     <iframe id="Harp" width="100%" height="100%" src="https://www.youtube.com/embed/hkIo8ApW5Jo" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
-</div>
 
 
 <p><h5> Lost (2019) </h5></p>
@@ -66,7 +64,17 @@ Director: Laura Samani (<b>2022 David di Donatello winner for best new director<
 </div> 
 
 
+<p><h5> Harp (2019) </h5></p>
 
+Director: Laura Samani (<b>2022 David di Donatello winner for best new director</b>)
+
+<p>"An excellent job: everything that the Italian independent video clip could be, but most of the time it is not. Chapeau". <b>Videoclip Italia</b></p>
+
+
+<div id="Container"
+     style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe id="Harp" width="100%" height="100%" src="https://www.youtube.com/embed/hkIo8ApW5Jo" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+</div>
 
 
 
