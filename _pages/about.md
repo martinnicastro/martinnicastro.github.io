@@ -21,13 +21,13 @@ Martin Nicastro (PhD) is a violinist, composer and academic researcher.
 
 Currently, he is a musicology post-doctoral researcher at the University of Pavia (Italy).
 
-He is part of [Live Music Mapping Project (LMMP)](https://livemusicresearch.org), an international research group (University of Liverpool, Aston University, Newcastle University) that focuses on the comparative study of urban live music ecologies. Within the group he is responsible for the development of geospatial visualizations. 
+He is part of [Live Music Mapping Project (LMMP)](https://livemusicresearch.org), an international research initiave on music ecologies (University of Liverpool, Aston University, Newcastle University). Within the group he is responsible for the development of geospatial applications. 
 
-His PhD research project, ["Milan 1958-1962: Music Topography of a City"](https://musictopography.github.io), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom; it uses a combination of digital mapping, network analysis and field research.
+His PhD research project, ["Milan 1958-1962: Music Topography of a City"](https://musictopography.github.io), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom.
 
-His music was reviewed by various influential magazines, such as <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> or <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to the renowned Italian webzine Rockit.
+His music was reviewed by <b>Rolling Stone</b>, <b>Rumore</b>, <b>Sentireascoltare</b>, <b>Il Manifesto</b> and <b>Internazionale</b> and it was broadcast on <b>MTV Music</b>. His album “Fragile”, written as Clio & Maurice, was among the 50 best records of 2021 according to <b>Rockit</b>.
 
-As a touring musician he played in more than 15 countries across Europe, in Morocco and Russia. He collaborates as a composer, arranger or session musician with [Clio M](https://www.instagram.com/cliommusic/).
+As a touring musician he played in more than 15 countries worldwide. He collaborates as a composer, arranger or session musician with [Clio M](https://www.instagram.com/cliommusic/).
 
 ## Current research interests:
 
