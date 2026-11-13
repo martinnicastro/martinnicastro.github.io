@@ -19,9 +19,13 @@ social: true  # includes social icons at the bottom of the page
 
 Martin Nicastro (PhD) is a violinist, composer and academic researcher.
 
-Currently, he is a musicology post-doctoral researcher at the University of Pavia (Italy).
+Currently, he is a Marie Skłodowska-Curie Research Fellow at the University of Liverpool. 
 
-He is part of [Live Music Mapping Project (LMMP)](https://livemusicresearch.org), an international research initiave on music ecologies (University of Liverpool, Aston University, Newcastle University). Within the group he is responsible for the development of geospatial applications. 
+His current project, Historical Atlas of European Live Music, focuses on the development of an integrated framework for the collection, analysis, and dissemination of historical live music data.
+
+Previously, he was a postdoctoral researcher at the University of Pavia, where he worked on [FILMUSP](https://filmusp.unimi.it/) and MURB projects.
+
+He is part of [Music Mapping Project (MMP)](https://livemusicresearch.org), an international research initiave (University of Liverpool, Aston University, Newcastle University). Within the group he is responsible for the development of data analysis and visualization applications. 
 
 His PhD research project, ["Milan 1958-1962: Music Topography of a City"](https://musictopography.github.io), aims at the historical reconstruction of the Milanese live music scene in the years of the economic boom.
 
